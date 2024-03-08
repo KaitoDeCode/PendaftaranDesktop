@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PendafaranDesktop", "PendafaranDesktop\PendafaranDesktop.csproj", "{CDF1B2BE-85F0-40A2-9A2E-150E16D1EAA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDF1B2BE-85F0-40A2-9A2E-150E16D1EAA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDF1B2BE-85F0-40A2-9A2E-150E16D1EAA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDF1B2BE-85F0-40A2-9A2E-150E16D1EAA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDF1B2BE-85F0-40A2-9A2E-150E16D1EAA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D478779-1E80-4082-812A-DE65E661A2D4}
+	EndGlobalSection
+EndGlobal
